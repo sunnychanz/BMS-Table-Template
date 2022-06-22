@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "MODEL難易度表",
+"symbol" : "MODEL",
+"data_url" : "https://script.google.com/macros/s/AKfycbwplzWnSmSyrLMdX3yXhb3XKWXf5W7aUwdb-xRR6HnKOepjSsThC9EdXKfMJrwSQ_qYyA/exec"
 }
